@@ -4,7 +4,7 @@ import { BrowserRouter,Link,Route,Routes } from 'react-router-dom';
 
 import Login from './Components/Login';
 import SignUp from './Components/Signup';
-import Mui from './Components/Mui';
+import LandingPage from './Components/LandingPage';
 
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <Route path="/" element={<Login/>} />
         <Route path="/login" element={<Login/>} />
         <Route path="/signup" element={<SignUp/>} />
-        <Route path="/mui" element={<Mui/>} />
+        <Route path="/landingpage" element={<LandingPage/> } />
       </Routes>
     </BrowserRouter>
   );
