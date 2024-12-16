@@ -190,29 +190,16 @@ const LandingPage = () => {
                     <p className='text-center text-gray-500'>Simple and secure control of your organization’s financial and legal transactions. Send customized invoices and contracts</p>
                 </div>
                 <div className="w-full flex flex-col items-center justify-center p-6 md:w-60 rounded-lg shadow-md border-lg ">
-                    <h1 className='text-2xl font-semibold text-center text-indigo-900 mb-4'>Online Billing, invoicing and Contracts</h1>
+                    <h1 className='text-2xl font-semibold text-center text-indigo-900 mb-4'>Easy Scheduling & Attendance Tracking</h1>
                     <p className='text-center text-gray-500'>Simple and secure control of your organization’s financial and legal transactions. Send customized invoices and contracts</p>
                 </div>
                 <div className="w-full flex flex-col items-center justify-center p-6 md:w-60 rounded-lg shadow-md border-lg ">
-                    <h1 className='text-2xl font-semibold text-center text-indigo-900 mb-4'>Online Billing, invoicing and Contracts</h1>
+                    <h1 className='text-2xl font-semibold text-center text-indigo-900 mb-4'>Customer Tracking</h1>
                     <p className='text-center text-gray-500'>Simple and secure control of your organization’s financial and legal transactions. Send customized invoices and contracts</p>
                 </div>
             </div>
 
 
-
-
-
-
-
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
 
 
 
